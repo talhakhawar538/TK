@@ -1,0 +1,6 @@
+{
+  "name": "TK SCORE",
+  "description": "Clean, lightweight cricket scoring hub. Build custom tournaments, configure matches, trace player registries, and enjoy local scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
